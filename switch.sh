@@ -1,0 +1,11 @@
+1,8c
+werner
+firmino
+jesus
+aguero
+giroud
+abraham
+maupay
+.
+w
+q
